@@ -9,6 +9,7 @@
 ![p1](./图片1.png)![p2](./图片2.png)![p3](./图片3.png)
 
 4. After successfully creating the IP address for the remote connection, we can find the new IP address when we open the remote explorer on the left side. Press the button “connect in new window”. Press Linux and enter the password “mangdang”, then we can successfully establish connection.
+   
    ![p4](./图片4.png)
 5. Then choose “mini pupper_bsp/demos/python_api_setpos.py” to open the code file. Then we can modify action instructions on the code.
    ![p5](./图片5.png)
