@@ -13,3 +13,14 @@
    ![p4](./图片4.png)
 5. Then choose “mini pupper_bsp/demos/python_api_setpos.py” to open the code file. Then we can modify action instructions on the code.
    ![p5](./图片5.png)
+
+
+
+the instruction works well, but I think it could add something more
+
+# Some of my suggestion to improve ig
+
+- Maybe add remoting from the user terminal (Windows powershell Mac's Terminal etc)
+- could add image whem mni pupper displaying IP address
+- maybe let the user bash some demos to show that they successfully conneect with pupper e.g. let use './playsomebeepingsound.py' 
+- the exit command when you wanted to stop remote
